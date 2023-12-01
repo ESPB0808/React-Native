@@ -1,0 +1,12 @@
+{
+  "name": "projectlima",
+  "displayName": "projectlima",
+
+  "splash": {
+    "image": "./assets/task-list.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}
+
+
